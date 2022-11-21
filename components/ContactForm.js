@@ -1,12 +1,14 @@
 import { Fragment } from "react";
 
-
 const ContactForm = () => {
 
   return (
         <Fragment>
-            <h3 className="text-3xl md:text-4xl mb-8 md:w-[100%] font-bold md:text-left text-center">
-                Preencha os campos abaixo para obter a informação desejada gratuitamente
+            <h1 className="text-left md:px-0 text-5xl font-bold md:inline-block py-2 rounded-md text-[#FBED04]">
+                Faça o seu negócio chegar a mais de 4000 clientes com um único email! 
+            </h1>
+            <h3 className="text-[1rem] mb-8 md:w-[100%] md:text-left text-center">
+                Preencha os campos abaixo para obter a nossa oferta especial Black Friday
             </h3>
             <div id="mlb2-5795093" className="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795093">
                 <div className="ml-form-align-center">

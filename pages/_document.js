@@ -14,7 +14,7 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
-        <Script
+        {/*<Script
           type="text/javascript"
           strategy="beforeInteractive"
           src="https://static.mailerlite.com/js/w/webforms.min.js?v7316d10e2931a97c7b0f5c7e7e7be3ea"
@@ -29,7 +29,7 @@ export default function Document() {
           id="element1"
         >
 
-        </Script>
+        </Script>*/}
       </body>
     </Html>
   )
