@@ -4,7 +4,7 @@ export default function Lead() {
     return(
         <section id='sectionInfo' className="mt-40 mx-auto md:w-2/4 px-5">
             <h3 className="text-3xl mb-12 font-bold text-center">
-                Preencha os campos abaixo para obter a nossa oferta especial Black Friday
+                Preencha os campos abaixo para obter uma oferta especial de 30% de desconto
             </h3>
             <div id="mlb2-5795093" className="text-center ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795093">
                 <div className="ml-form-align-center">

@@ -9,7 +9,7 @@ export default function Hero() {
             <div className="flex md:flex-row flex-col-reverse mt-16 gap-8 md:gap-18 text-[#f8f8ff] justify-center items-center">
                 <div className="md:w-1/2 w-full self-center items-center pb-10 md:pb-0">
                     
-                <ContactForm />
+                    <ContactForm />
                 </div>
                 <div className="md:w-1/2 w-full self-center">
                     {/*<h1 className="text-5xl font-bold bg-[#FBED04] md:inline-block p-2 rounded-md text-[#070707]">E-mail Marketing</h1>
@@ -27,7 +27,7 @@ export default function Hero() {
                             económicas e ricas em conversões da atualidade.
                         </p>
                 </div>*/}
-                    <Image src={heroImage} alt="Black Friday" className="object-contain" layout="responsive" priority/>
+                    {/*<Image src={heroImage} alt="Black Friday" className="object-contain" layout="responsive" priority/>*/}
                 </div>
             </div>
         </div>
